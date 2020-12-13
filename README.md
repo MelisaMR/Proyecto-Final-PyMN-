@@ -2,8 +2,9 @@
 Proyecto Final de Programación y Métodos Numéricos 2020-2  
 # Universidad Autonoma de Baja California
 * Campus Ensenada
-* Tronco Comun de Ingenierias
+* Tronco Comun de Ingenieria
 * Segundo semestre
+* Grupo 021
 * Programacion y Metodos Numericos
 * Melisa Miranda Rodriguez
 * 361111
