@@ -1,6 +1,5 @@
- 
 [
-![logouabc](https://user-images.githubusercontent.com/75860735/102256478-b0787e00-3ec8-11eb-9338-53b296b99e8c.jpg)
+![logouabc](https://user-images.githubusercontent.com/75860735/102273808-21776000-3ee0-11eb-8aa8-5c4eaf3720de.jpg)
 ](url)
 ## Universidad Autonoma de Baja California
 ### Facultad de Ingenieria, Arquitectura y Diseño
