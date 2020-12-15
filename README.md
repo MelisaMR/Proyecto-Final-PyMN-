@@ -3,13 +3,14 @@
 ![logouabc](https://user-images.githubusercontent.com/75860735/102256478-b0787e00-3ec8-11eb-9338-53b296b99e8c.jpg)
 ](url)
 ## Universidad Autonoma de Baja California
+### Facultad de Ingenieria, Arquitectura y Diseño
 #### Campus Ensenada
 #### Tronco Comun de Ingenieria
 #### Segundo semestre
 #### Grupo 021
 #### Programacion y Metodos Numericos
 #### **Proyecto final**
-#### Melisa Miranda Rodriguez
+### Melisa Miranda Rodriguez
 #### 361111
 #### Diciembre 2020
 ---
