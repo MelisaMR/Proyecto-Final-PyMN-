@@ -37,8 +37,8 @@ Contiene archivos de las practicas de laboratorio
 ##### 5 Métodos cerrados:                                                     
 * [Bisección y de la falsa posición](https://github.com/MelisaMR/Proyecto-Final-PyMN-/blob/main/Practica5Melisa.c)
 
-##### 10 [Derivación numérica]
+##### 10 Derivación numérica
 * [10](https://github.com/MelisaMR/Proyecto-Final-PyMN-/blob/main/Practica10Melisa.c)
 
-##### 11 [Métodos de ecuaciones lineales]:                                        
+##### 11 Métodos de ecuaciones lineales:                                        
 * [Método de Gauss Seidel y método de Jacobi](https://github.com/MelisaMR/Proyecto-Final-PyMN-/blob/main/Practica11Melisa.c)
