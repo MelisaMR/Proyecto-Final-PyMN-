@@ -1,5 +1,4 @@
-
-# Proyecto Final de Programación y Métodos Numéricos 2020-2  
+ 
 [
 ![logouabc](https://user-images.githubusercontent.com/75860735/102256478-b0787e00-3ec8-11eb-9338-53b296b99e8c.jpg)
 ](url)
@@ -9,6 +8,7 @@
 #### Segundo semestre
 #### Grupo 021
 #### Programacion y Metodos Numericos
+#### **Proyecto final**
 #### Melisa Miranda Rodriguez
 #### 361111
 #### Diciembre 2020
@@ -35,13 +35,13 @@ Contiene archivos de las practicas de laboratorio
 * 3.3 [Sucesión de números de Fibonacci y aproximacion al numero aureo](https://github.com/MelisaMR/Proyecto-Final-PyMN-/blob/main/Practica3.3Melisa.c)
 
 ##### 4 Funciones, arreglos y matrices
-* [4](https://github.com/MelisaMR/Proyecto-Final-PyMN-/blob/main/Practica4Melisa.c)
+* [Programa de funciones matriciales](https://github.com/MelisaMR/Proyecto-Final-PyMN-/blob/main/Practica4Melisa.c)
 
 ##### 5 Métodos cerrados:                                                     
 * [Bisección y de la falsa posición](https://github.com/MelisaMR/Proyecto-Final-PyMN-/blob/main/Practica5Melisa.c)
 
 ##### 10 Derivación numérica
-* [10](https://github.com/MelisaMR/Proyecto-Final-PyMN-/blob/main/Practica10Melisa.c)
+* [Derivacion hacia atras, adelante y centrada](https://github.com/MelisaMR/Proyecto-Final-PyMN-/blob/main/Practica10Melisa.c)
 
 ##### 11 Métodos de ecuaciones lineales:                                        
 * [Método de Gauss Seidel y método de Jacobi](https://github.com/MelisaMR/Proyecto-Final-PyMN-/blob/main/Practica11Melisa.c)
