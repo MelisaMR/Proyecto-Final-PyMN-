@@ -13,7 +13,7 @@ Proyecto Final de Programación y Métodos Numéricos 2020-2
 Este es el proyecto final de la materia programacion y metodos numericos.
 Contiene archivos de las practicas de laboratorio
 * 1.0) Introducción al entorno y variables de programación en lenguaje C 
-* 1a)[Calculo del volumen de una esfera](https://github.com/MelisaMR/Proyecto-Final-PyMN-/blob/main/Practica1aMelisa.c)
+* 1a [Calculo del volumen de una esfera](https://github.com/MelisaMR/Proyecto-Final-PyMN-/blob/main/Practica1aMelisa.c)
 * 1b) Calculo la fuerza de atracción del peso de una persona
 * 1c) Calculo de IMC
 
