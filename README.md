@@ -1,5 +1,8 @@
 
 # Proyecto Final de Programación y Métodos Numéricos 2020-2  
+[
+![logouabc](https://user-images.githubusercontent.com/75860735/102256478-b0787e00-3ec8-11eb-9338-53b296b99e8c.jpg)
+](url)
 ## Universidad Autonoma de Baja California
 #### Campus Ensenada
 #### Tronco Comun de Ingenieria
