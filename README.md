@@ -8,14 +8,14 @@
 #### Segundo semestre
 #### Grupo 021
 #### Programacion y Metodos Numericos
-#### **Proyecto final**
+#### Proyecto final
 ### Melisa Miranda Rodriguez
 #### 361111
 #### Diciembre 2020
 ---
 
 Este es el proyecto final de la materia programacion y metodos numericos.
-Contiene archivos de las practicas de laboratorio
+Contiene archivos de las practicas de laboratorio en lenguaje C.
 ##### 1 Introducción al entorno y variables de programación en lenguaje C 
 * 1a [Calculo del volumen de una esfera](https://github.com/MelisaMR/Proyecto-Final-PyMN-/blob/main/Practica1aMelisa.c)
 * 1b [Calculo la fuerza de atracción del peso de una persona](https://github.com/MelisaMR/Proyecto-Final-PyMN-/blob/main/Practica1bMelisa.c)
