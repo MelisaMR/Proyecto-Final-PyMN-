@@ -9,7 +9,7 @@
 #### Grupo 021
 #### Programacion y Metodos Numericos
 #### Proyecto final
-### Melisa Miranda Rodriguez
+### [Melisa Miranda Rodriguez](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3)
 #### 361111
 #### Diciembre 2020
 ---
